@@ -18,8 +18,8 @@ Program ini dibuat hanya untuk sekedar hiburan dan memudahkan yang ingin membuat
 
 - Project     : Nono Keyboard OSU! 2 Key 3 Button
 - Version     : V1.0.0
-- Created     : 1 Februari 2018
-- Modified    : 20 Oktober 2019 
+- Created     : 19 April 2020
+- Modified    : 19 April 2020
 
 ---
 ## Library Author
