@@ -1,6 +1,6 @@
 # DIY Arduino Project Nono Keyboard for OSU!
 
-[![DIY Arduino Project Nono Keyboard for OSU!](https://i0.wp.com/www.fanselectronics.com/wp-content/uploads/2020/04/hasil-nono-keyboard.jpeg?resize=1080%2C810&ssl=1)](https://www.fanselectronics.com/2020/04/19/membuat-diy-nano…d-untuk-game-osu/ "DIY Arduino Project Nono Keyboard for OSU!")
+[![DIY Arduino Project Nono Keyboard for OSU!](https://i1.wp.com/www.fanselectronics.com/wp-content/uploads/2020/04/cover-nano-keyboard-osu.jpg?resize=1280%2C640&ssl=1)](https://www.fanselectronics.com/2020/04/19/membuat-diy-nano…d-untuk-game-osu/ "DIY Arduino Project Nono Keyboard for OSU!")
 [![DIY Arduino Project Nono Keyboard for OSU!](https://i1.wp.com/www.fanselectronics.com/wp-content/uploads/2020/04/osu-gameplay.jpg?resize=1024%2C576&ssl=1)](https://www.fanselectronics.com/2020/04/19/membuat-diy-nano…d-untuk-game-osu/ "DIY Arduino Project Nono Keyboard for OSU!")
 
 ## Deskripsi
