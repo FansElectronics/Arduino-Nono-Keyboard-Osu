@@ -4,7 +4,7 @@
 [![DIY Arduino Project Nono Keyboard for OSU!](https://i1.wp.com/www.fanselectronics.com/wp-content/uploads/2020/04/osu-gameplay.jpg?resize=1024%2C576&ssl=1)](https://www.fanselectronics.com/2020/04/19/membuat-diy-nano…d-untuk-game-osu/ "DIY Arduino Project Nono Keyboard for OSU!")
 
 ## Deskripsi
-Program ini dibuat hanya untuk sekedar hiburan dan memudahkan yang ingin membuat tools untuk bermain OSU!. Jika ingin memproduksi dan menjualnya saya sarankan, untuk menyesihkan pendapatan anda untuk diambalkan agar lebih barokah, hehe.
+Program ini dibuat hanya untuk sekedar hiburan dan memudahkan yang ingin membuat tools untuk bermain OSU!. Jika ingin memproduksi dan menjualnya saya sarankan, untuk menyisihkan pendapatan anda untuk diamalkan sebagian agar lebih barokah, hehe.
 
 >"Dengan membaca Deskripsi diatas, dianggap anda telah menyetujui aturan mendownload program ini"
 
