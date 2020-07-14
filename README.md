@@ -33,6 +33,7 @@ Semua jenis donasi ditunjukan untuk amal dan pendidikan, bagi kalian yang ingin 
 - donate@fanselectronics.com
 - www.facebook.com/FansElectronicsCom
 - www.instagram.com/fanselectronics
+- https://saweria.co/donate/FansElectronics
 
 ---
 ## Thanks To
